@@ -5,6 +5,7 @@ lastmod: 2025-08-10T11:58:02.994574Z
 categories:
   - "High-Protein"
   - "Dinner"
+image: "/posts/cottage-cheese-mini-pizzas.webp"
 ---
 
 ## Ingredients

@@ -3,6 +3,7 @@ title: "Buffalo Chicken Chalupas"
 summary: "These Buffalo Chicken Chalupas are only 247 calories with 35g protein! Aka this whole plate of two is less than 500 calories."
 date: 2024-06-15
 lastmod: 2024-06-15T08:26:21.471887Z
+image: "/posts/buffalo-chicken-chalupas.webp"
 ---
 
 These Buffalo Chicken Chalupas are only 247 calories with 35g protein! Aka this whole plate of two is less than 500 calories.

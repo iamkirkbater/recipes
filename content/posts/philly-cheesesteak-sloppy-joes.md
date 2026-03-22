@@ -3,6 +3,7 @@ title: "Philly Cheesesteak Sloppy Joes"
 summary: "Don't be afraid to get messy with these Philly Cheesesteak Sloppy Joes. Meaty, melty and cheesy, this sandwich combines two comfort food classics to create an easy to make, can't resist dinner, everyone will devour."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.598871Z
+image: "/posts/philly-cheesesteak-sloppy-joes.webp"
 ---
 
 Don't be afraid to get messy with these Philly Cheesesteak Sloppy Joes. Meaty, melty and cheesy, this sandwich combines two comfort food classics to create an easy to make, can't resist dinner, everyone will devour.

@@ -2,6 +2,7 @@
 title: "Tomatillo Guacamole"
 date: 2025-04-12
 lastmod: 2025-04-12T10:50:51.697640Z
+image: "/posts/tomatillo-guacamole.webp"
 ---
 
 ## Ingredients

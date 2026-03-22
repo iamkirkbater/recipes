@@ -2,6 +2,7 @@
 title: "Chipotle Steak Quesadilla"
 date: 2024-06-15
 lastmod: 2024-06-15T09:11:00.040022Z
+image: "/posts/chipotle-steak-quesadilla.webp"
 ---
 
 ## Ingredients

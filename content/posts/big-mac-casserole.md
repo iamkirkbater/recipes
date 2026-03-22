@@ -3,6 +3,7 @@ title: "Big Mac Casserole"
 summary: "This Big Mac Casserole will make the entire family happy with it's McDonalds flavors in under 30 minutes. Everyone can have a little big mac on their plate, add a toy for a Happy Meal! Packed with ground beef, potatoes and that special big mac sauce, you'll love this big mac in a bowl."
 date: 2024-06-29
 lastmod: 2024-06-29T10:10:06.183040Z
+image: "/posts/big-mac-casserole.webp"
 tags:
   - "Big Mac"
   - "Casserole"

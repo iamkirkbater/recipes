@@ -3,6 +3,7 @@ title: "Garlic Parmesan Chicken Pasta"
 summary: "This Garlic Parmesan Chicken Pasta is a simple weeknight comfort food your entire family will love. Using roasted garlic gives this dish a gourmet feel while still being quick and easy for busy nights."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.480473Z
+image: "/posts/garlic-parmesan-chicken-pasta.webp"
 ---
 
 This Garlic Parmesan Chicken Pasta is a simple weeknight comfort food your entire family will love. Using roasted garlic gives this dish a gourmet feel while still being quick and easy for busy nights.

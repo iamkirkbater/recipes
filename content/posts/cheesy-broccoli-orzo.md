@@ -2,6 +2,7 @@
 title: "Cheesy Broccoli Orzo"
 date: 2024-06-15
 lastmod: 2024-06-15T08:52:44.165488Z
+image: "/posts/cheesy-broccoli-orzo.webp"
 ---
 
 ## Ingredients

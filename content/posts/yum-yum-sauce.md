@@ -2,6 +2,7 @@
 title: "Yum Yum Sauce"
 date: 2024-06-15
 lastmod: 2024-06-15T08:55:34.246934Z
+image: "/posts/yum-yum-sauce.webp"
 ---
 
 ## Ingredients

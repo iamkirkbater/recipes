@@ -3,6 +3,7 @@ title: "California Chicken Salad"
 summary: "This creamy, crunchy and sweet California Chicken Salad is the perfect on the go lunch. Serve it with bread, buns, in a salad or even as a dip with your favorite chips or crackers."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.342001Z
+image: "/posts/california-chicken-salad.webp"
 ---
 
 This creamy, crunchy and sweet California Chicken Salad is the perfect on the go lunch. Serve it with bread, buns, in a salad or even as a dip with your favorite chips or crackers.

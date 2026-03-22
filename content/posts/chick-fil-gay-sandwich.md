@@ -3,6 +3,7 @@ title: "Chick-fil-Gay Sandwich"
 summary: "Macro-friendly Chick-Fil-Gay sandwich"
 date: 2024-06-15
 lastmod: 2024-06-15T08:39:17.332729Z
+image: "/posts/chick-fil-gay-sandwich.webp"
 ---
 
 Macro-friendly Chick-Fil-Gay sandwich

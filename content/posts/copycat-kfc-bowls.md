@@ -3,6 +3,7 @@ title: "Copycat KFC Bowls"
 summary: "These Copycat KFC Bowls combine Blackened Chicken and Greek Yogurt Mashed Potatoes with a delicious and quick gravy for a … I said it … even better than KFC bowl!These bowls can be served upon cooking or reheated throughout the week as meal prep.You’ll be left with lots of gravy too so you can plan to grab some extra potatoes and whip up some Greek Mashed Potatoes for a side dish."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.262282Z
+image: "/posts/copycat-kfc-bowls.webp"
 ---
 
 These Copycat KFC Bowls combine Blackened Chicken and Greek Yogurt Mashed Potatoes with a delicious and quick gravy for a … I said it … even better than KFC bowl!These bowls can be served upon cooking or reheated throughout the week as meal prep.You’ll be left with lots of gravy too so you can plan to grab some extra potatoes and whip up some Greek Mashed Potatoes for a side dish.

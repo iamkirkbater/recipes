@@ -5,6 +5,7 @@ lastmod: 2026-03-21T18:38:55.710710Z
 categories:
   - "meal-prep"
   - "High-Protein"
+image: "/posts/creamy-garlic-butter-steak-bites.webp"
 ---
 
 {{< recipedetails Servings="4" Rating="4" >}}

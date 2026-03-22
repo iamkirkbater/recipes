@@ -3,6 +3,7 @@ title: "Air Fryer Mini Tacos"
 summary: "These Air Fryer Mini Tacos put those frozen mini tacos to shame. Filled with juicy, flavorful chicken, shredded cheese and a crunchy shell, this easy appetizer comes with homemade taco seasoning and ricotta cilantro crema. A great way to please the crowd, this easy appetizer is ready in less than 30 minutes."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.445282Z
+image: "/posts/air-fryer-mini-tacos.webp"
 ---
 
 These Air Fryer Mini Tacos put those frozen mini tacos to shame. Filled with juicy, flavorful chicken, shredded cheese and a crunchy shell, this easy appetizer comes with homemade taco seasoning and ricotta cilantro crema. A great way to please the crowd, this easy appetizer is ready in less than 30 minutes.

@@ -2,6 +2,7 @@
 title: "Chili Crisp Alfredo Pasta"
 date: 2024-06-15
 lastmod: 2024-06-15T08:59:41.000949Z
+image: "/posts/chili-crisp-alfredo-pasta.webp"
 ---
 
 ## Ingredients

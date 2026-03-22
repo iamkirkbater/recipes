@@ -3,6 +3,7 @@ title: "Cracked Out Tater Tot Casserole"
 summary: "This Cracked Out Tater Tot Casserole is a combination of \"crack chicken\" and \"tater tot hot dish.\" It's full of chicken, tater tots and creamy ranch flavors. Top it with some crispy salty bacon and you've got a flavor explosion."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.409741Z
+image: "/posts/cracked-out-tater-tot-casserole.webp"
 ---
 
 This Cracked Out Tater Tot Casserole is a combination of \"crack chicken\" and \"tater tot hot dish.\" It's full of chicken, tater tots and creamy ranch flavors. Top it with some crispy salty bacon and you've got a flavor explosion.

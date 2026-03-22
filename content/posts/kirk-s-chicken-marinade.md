@@ -7,6 +7,7 @@ date: 2024-06-15
 lastmod: 2024-06-29T10:18:56.679268Z
 categories:
   - "Marinade"
+image: "/posts/kirk-s-chicken-marinade.webp"
 ---
 
 Chicken Marinade similar to Speidie, Fireman's Chicken, or NY State Fair style. 

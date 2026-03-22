@@ -3,6 +3,7 @@ title: "Chicken Teriyaki Pineapple Bowl"
 summary: "This Chicken Teriyaki Pineapple Bowl is quick, easy and perfect for meal prep. Whip these up in under 20 minutes for a quick weeknight meal or have for lunch or dinner throughout the week."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.521030Z
+image: "/posts/chicken-teriyaki-pineapple-bowl.webp"
 ---
 
 This Chicken Teriyaki Pineapple Bowl is quick, easy and perfect for meal prep. Whip these up in under 20 minutes for a quick weeknight meal or have for lunch or dinner throughout the week.

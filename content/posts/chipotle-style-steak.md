@@ -2,6 +2,7 @@
 title: "Chipotle Style Steak"
 date: 2024-06-15
 lastmod: 2024-06-29T10:55:57.930938Z
+image: "/posts/chipotle-style-steak.webp"
 ---
 
 ## Ingredients

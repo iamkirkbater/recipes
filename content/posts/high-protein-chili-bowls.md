@@ -5,6 +5,7 @@ lastmod: 2025-08-10T12:36:11.004973Z
 categories:
   - "meal-prep"
   - "High-Protein"
+image: "/posts/high-protein-chili-bowls.webp"
 ---
 
 ## Ingredients

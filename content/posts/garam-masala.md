@@ -3,6 +3,7 @@ title: "Garam Masala"
 summary: "This essential spice mixture can be used to flavor a variety of curries, braises, and other Indian dishes."
 date: 2025-04-12
 lastmod: 2025-04-12T11:01:41.432533Z
+image: "/posts/garam-masala.webp"
 ---
 
 This essential spice mixture can be used to flavor a variety of curries, braises, and other Indian dishes.

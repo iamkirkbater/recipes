@@ -5,6 +5,7 @@ summary: "Easy one pan Spanish chicken and rice is made with simple seasoning th
 Might want to make 2 portions at once."
 date: 2025-04-12
 lastmod: 2025-04-12T10:49:38.747622Z
+image: "/posts/one-pan-spanish-chicken-and-rice.webp"
 ---
 
 Easy one pan Spanish chicken and rice is made with simple seasoning that come together with zesty, bold flavors in this one pot, 30 minute meal.

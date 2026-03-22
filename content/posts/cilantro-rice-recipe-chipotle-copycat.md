@@ -3,6 +3,7 @@ title: "Cilantro Rice Recipe (Chipotle Copycat)"
 summary: "Learn the secrets to making Chipotle Cilantro Lime Rice in the comfort of your own kitchen. This copycat recipe starts with getting the right type of rice and cooking it in a non-traditional way. This rice is soft and fluffy with just the right amount of chew and no stickiness."
 date: 2025-04-12
 lastmod: 2025-04-12T11:32:55.915226Z
+image: "/posts/cilantro-rice-recipe-chipotle-copycat.webp"
 tags:
   - "copycat"
 ---

@@ -6,6 +6,7 @@ categories:
   - "High-Protein"
   - "Breakfast"
   - "Single-Serving"
+image: "/posts/hashbrown-breakfast-nests.webp"
 ---
 
 ## Ingredients

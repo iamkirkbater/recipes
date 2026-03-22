@@ -3,6 +3,7 @@ title: "Turkey Tater Tot Casserole"
 summary: "This Turkey Tater Tot Casserole is a lightened up version of the traditional Tater Tot Hotdish. Using deliciously seasoned ground turkey and Alexia Seasoned Taters Tots you’ll have the best weeknight dish the entire family will enjoy."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.563450Z
+image: "/posts/turkey-tater-tot-casserole.webp"
 ---
 
 This Turkey Tater Tot Casserole is a lightened up version of the traditional Tater Tot Hotdish. Using deliciously seasoned ground turkey and Alexia Seasoned Taters Tots you’ll have the best weeknight dish the entire family will enjoy.

@@ -3,6 +3,7 @@ title: "Buffalo Ranch Chicken Salad"
 summary: "This Buffalo Ranch Chicken Salad brings a balance of heat, crunch and flavor. High in protein and easy to make, this chicken salad has the best flavor from the homemade buffalo ranch dressing. Make a sandwich, add it to a wrap or place over a bed of greens for a delicious lunch, dinner or mid-day snack."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.376002Z
+image: "/posts/buffalo-ranch-chicken-salad.webp"
 ---
 
 This Buffalo Ranch Chicken Salad brings a balance of heat, crunch and flavor. High in protein and easy to make, this chicken salad has the best flavor from the homemade buffalo ranch dressing. Make a sandwich, add it to a wrap or place over a bed of greens for a delicious lunch, dinner or mid-day snack.

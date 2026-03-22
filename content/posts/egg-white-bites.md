@@ -3,6 +3,7 @@ title: "Egg White Bites"
 summary: "These homemade Egg White Bites are a meal prep must-have! Made with egg whites, cottage cheese, veggies and turkey sausage, these creamy bites are high protein, low-carb and totally delicious. This recipe makes 24 little egg bites to make breakfast a breeze all week."
 date: 2024-06-29
 lastmod: 2024-06-30T23:45:00.312820Z
+image: "/posts/egg-white-bites.webp"
 ---
 
 These homemade Egg White Bites are a meal prep must-have! Made with egg whites, cottage cheese, veggies and turkey sausage, these creamy bites are high protein, low-carb and totally delicious. This recipe makes 24 little egg bites to make breakfast a breeze all week.

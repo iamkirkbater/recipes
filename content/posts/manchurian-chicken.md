@@ -3,6 +3,7 @@ title: "Manchurian chicken"
 summary: "Enjoy this popular Hakka (Indo-Chinese) shallow-fried chicken dish with a little chilli heat and some sweetness"
 date: 2025-04-12
 lastmod: 2025-04-12T10:50:51.815333Z
+image: "/posts/manchurian-chicken.webp"
 ---
 
 Enjoy this popular Hakka (Indo-Chinese) shallow-fried chicken dish with a little chilli heat and some sweetness

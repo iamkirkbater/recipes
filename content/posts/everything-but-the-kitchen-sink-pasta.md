@@ -3,6 +3,7 @@ title: "Everything but the Kitchen Sink Pasta"
 summary: "An irresistible and super simple one-pot pasta dish filled with spicy sausage and a silky tomato cream sauce. It's a perfect family-friendly meal for busy weeknights!"
 date: 2025-04-12
 lastmod: 2025-04-12T10:47:46.217799Z
+image: "/posts/everything-but-the-kitchen-sink-pasta.webp"
 ---
 
 An irresistible and super simple one-pot pasta dish filled with spicy sausage and a silky tomato cream sauce. It's a perfect family-friendly meal for busy weeknights!

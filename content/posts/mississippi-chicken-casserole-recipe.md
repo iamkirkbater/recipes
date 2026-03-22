@@ -3,6 +3,7 @@ title: "Mississippi Chicken Casserole Recipe"
 summary: "This Mississippi Chicken Casserole recipe is comfort food at it's best! A flavorful chicken dinner so easy you won't believe it doesn't use canned soup. Tender, juicy chicken tossed in a creamy sauce with egg noodles, pepperoncini peppers, vegetables, and homemade ranch seasoning."
 date: 2024-06-29
 lastmod: 2024-06-29T10:12:57.302906Z
+image: "/posts/mississippi-chicken-casserole-recipe.webp"
 ---
 
 This Mississippi Chicken Casserole recipe is comfort food at it's best! A flavorful chicken dinner so easy you won't believe it doesn't use canned soup. Tender, juicy chicken tossed in a creamy sauce with egg noodles, pepperoncini peppers, vegetables, and homemade ranch seasoning.

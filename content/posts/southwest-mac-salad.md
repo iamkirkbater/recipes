@@ -5,6 +5,7 @@ date: 2025-08-10
 lastmod: 2025-08-10T11:53:05.702318Z
 categories:
   - "Parties"
+image: "/posts/southwest-mac-salad.webp"
 ---
 
 Southwest Mac Salad

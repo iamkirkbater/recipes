@@ -4,6 +4,7 @@ summary: "550 Calories & 65g Protein
 Taco Bell Beef Quesoritto"
 date: 2024-06-15
 lastmod: 2024-06-15T08:49:05.617439Z
+image: "/posts/quesaritos.webp"
 ---
 
 550 Calories & 65g Protein

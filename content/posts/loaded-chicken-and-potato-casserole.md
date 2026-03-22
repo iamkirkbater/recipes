@@ -3,6 +3,7 @@ title: "Loaded Chicken and Potato Casserole"
 summary: "Chicken potato casserole has clean and simple flavors, similar to those you get from a baked potato"
 date: 2025-04-12
 lastmod: 2025-04-12T10:50:51.579047Z
+image: "/posts/loaded-chicken-and-potato-casserole.webp"
 ---
 
 Chicken potato casserole has clean and simple flavors, similar to those you get from a baked potato

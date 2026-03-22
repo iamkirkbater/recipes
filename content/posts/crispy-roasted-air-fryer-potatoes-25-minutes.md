@@ -3,6 +3,7 @@ title: "Crispy Roasted Air Fryer Potatoes (25 Minutes!)"
 summary: "Easy Air Fryer Potatoes are a side for all occasions! They come out golden, crispy, and perfectly seasoned every time. Use any spuds you have on hand in this versatile recipe, but if you opt for small potatoes in the air fryer, and you even only have to cut 'em once."
 date: 2025-04-12
 lastmod: 2025-04-12T11:01:41.246171Z
+image: "/posts/crispy-roasted-air-fryer-potatoes-25-minutes.webp"
 ---
 
 Easy Air Fryer Potatoes are a side for all occasions! They come out golden, crispy, and perfectly seasoned every time. Use any spuds you have on hand in this versatile recipe, but if you opt for small potatoes in the air fryer, and you even only have to cut 'em once.
