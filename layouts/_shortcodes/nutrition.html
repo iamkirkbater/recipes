@@ -1,0 +1,25 @@
+<div class="nutrition-info">
+<ul>
+    {{- if .Get "Calories" }}<li>Calories: {{ .Get "Calories" }}</li>
+{{ end -}}
+{{- if .Get "Carbohydrates" }}<li>Carbohydrates: {{ .Get "Carbohydrates" }}</li>
+{{ end -}}
+{{- if .Get "Protein" }}<li>Protein: {{ .Get "Protein" }}</li>
+{{ end -}}
+{{- if .Get "Fat" }}<li>Fat: {{ .Get "Fat" }}</li>
+{{ end -}}
+{{- if .Get "SaturatedFat" }}<li>Saturated Fat: {{ .Get "SaturatedFat" }}</li>
+{{ end -}}
+{{- if .Get "UnsaturatedFat" }}<li>Unsaturated Fat: {{ .Get "UnsaturatedFat" }}</li>
+{{ end -}}
+{{- if .Get "TransFat" }}<li>Trans Fat: {{ .Get "TransFat" }}</li>
+{{ end -}}
+{{- if .Get "Cholesterol" }}<li>Cholesterol: {{ .Get "Cholesterol" }}</li>
+{{ end -}}
+{{- if .Get "Sodium" }}<li>Sodium: {{ .Get "Sodium" }}</li>
+{{ end -}}
+{{- if .Get "Fiber" }}<li>Fiber: {{ .Get "Fiber" }}</li>
+{{ end -}}
+{{- if .Get "Sugar" }}<li>Sugar: {{ .Get "Sugar" }}</li>
+{{ end -}}
+</div>

@@ -1,0 +1,19 @@
+<div class="recipe-details">
+<ul>
+{{- if .Get "PrepTime" }}
+<li><b>Prep Time</b>: {{ .Get "PrepTime" }}</li>
+{{- end }}
+{{- if .Get "CookTime" }}
+<li><b>Cook Time</b>: {{ .Get "CookTime" }}</li>
+{{- end }}
+{{- if .Get "TotalTime" }}
+<li><b>Total Time</b>: {{ .Get "TotalTime" }}</li>
+{{- end }}
+{{- if .Get "Servings" }}
+<li><b>Servings</b>: {{ .Get "Servings" }}</li>
+{{- end }}
+{{- if .Get "Rating" }}
+<li><b>Rating</b>: {{ .Get "Rating" }}</li>
+{{- end }}
+</ul>
+</div>
