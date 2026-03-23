@@ -7,8 +7,8 @@ image: "/posts/copycat-kfc-bowls.webp"
 ---
 
 These Copycat KFC Bowls combine Blackened Chicken and Greek Yogurt Mashed Potatoes with a delicious and quick gravy for a … I said it … even better than KFC bowl!These bowls can be served upon cooking or reheated throughout the week as meal prep.You’ll be left with lots of gravy too so you can plan to grab some extra potatoes and whip up some Greek Mashed Potatoes for a side dish.
-
-{{< recipedetails PrepTime="5 minutes" Servings="1" >}}
+- **Prep Time**: 5 minutes
+- **Servings**: 1
 
 ## Ingredients
 
@@ -35,5 +35,13 @@ These Copycat KFC Bowls combine Blackened Chicken and Greek Yogurt Mashed Potato
 7. NOTE! If you end up with lumps (gravy can be tricky) you can toss this in the blender or use a immersion blender for a few pulses and it'll be lump free.
 
 
-{{< nutrition Calories="374" Carbohydrates="38.4" Protein="47.9" Fat="7.2" Sodium="497" Fiber="2" >}}
+## Nutrition
+
+- Calories: 374
+- Carbohydrates: 38.4
+- Protein: 47.9
+- Fat: 7.2
+- Sodium: 497
+- Fiber: 2
+
 *Recipe Source*: "https://ohsnapmacros.com/copycat-kfc-bowls/"

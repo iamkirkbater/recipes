@@ -7,8 +7,9 @@ image: "/posts/garam-masala.webp"
 ---
 
 This essential spice mixture can be used to flavor a variety of curries, braises, and other Indian dishes.
-
-{{< recipedetails PrepTime="10 minutes" TotalTime="10 minutes" Servings="17" >}}
+- **Prep Time**: 10 minutes
+- **Total Time**: 10 minutes
+- **Servings**: 17
 
 ## Ingredients
 
@@ -28,5 +29,14 @@ This essential spice mixture can be used to flavor a variety of curries, braises
 1. Place cardamom, coriander, cumin, peppercorns, cloves, fennel, cinnamon, and anise in a medium skillet set over medium heat. Cook, tossing frequently, until aromatic and toasted-smelling, about 2 minutes. Transfer to a spice grinder or mortar and pestle. Add ground nutmeg. Grind into a fine powder. Garam masala can be stored in an airtight, light-free container for up to 6 months.
 
 
-{{< nutrition Calories="11" Carbohydrates="2" Protein="0" Fat="0" Sodium="2" Fiber="1" Sugar="0" >}}
+## Nutrition
+
+- Calories: 11
+- Carbohydrates: 2
+- Protein: 0
+- Fat: 0
+- Sodium: 2
+- Fiber: 1
+- Sugar: 0
+
 *Recipe Source*: "https://www.seriouseats.com/garam-masala-recipe"

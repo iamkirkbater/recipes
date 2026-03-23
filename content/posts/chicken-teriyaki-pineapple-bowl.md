@@ -7,8 +7,8 @@ image: "/posts/chicken-teriyaki-pineapple-bowl.webp"
 ---
 
 This Chicken Teriyaki Pineapple Bowl is quick, easy and perfect for meal prep. Whip these up in under 20 minutes for a quick weeknight meal or have for lunch or dinner throughout the week.
-
-{{< recipedetails PrepTime="10 minutes" Servings="4" >}}
+- **Prep Time**: 10 minutes
+- **Servings**: 4
 
 ## Ingredients
 
@@ -48,5 +48,14 @@ This Chicken Teriyaki Pineapple Bowl is quick, easy and perfect for meal prep. W
 15. Build your bowl: 120 grams of rice blend, 120 grams of chicken with sauce, 35 grams of chopped pineapple. Garnish of choice.
 
 
-{{< nutrition Calories="329" Carbohydrates="41" Protein="33" Fat="3" Sodium="850" Fiber="3" Sugar="16" >}}
+## Nutrition
+
+- Calories: 329
+- Carbohydrates: 41
+- Protein: 33
+- Fat: 3
+- Sodium: 850
+- Fiber: 3
+- Sugar: 16
+
 *Recipe Source*: "https://ohsnapmacros.com/chicken-teriyaki-pineapple-bowl/"

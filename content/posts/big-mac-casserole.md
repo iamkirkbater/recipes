@@ -10,8 +10,8 @@ tags:
 ---
 
 This Big Mac Casserole will make the entire family happy with it's McDonalds flavors in under 30 minutes. Everyone can have a little big mac on their plate, add a toy for a Happy Meal! Packed with ground beef, potatoes and that special big mac sauce, you'll love this big mac in a bowl.
-
-{{< recipedetails PrepTime="10 minutes" Servings="6" >}}
+- **Prep Time**: 10 minutes
+- **Servings**: 6
 
 ## Ingredients
 
@@ -46,5 +46,14 @@ This Big Mac Casserole will make the entire family happy with it's McDonalds fla
 6. When the casserole is done baking, remove from the oven and remove the foil. Top with the big mac sauce drizzled across the top (use it all!), shredded lettuce, chopped white onion, chopped tomatoes and full pickle chips. Serve and enjoy!
 
 
-{{< nutrition Calories="319" Carbohydrates="19" Protein="23" Fat="17" Sodium="429" Fiber="1" Sugar="3" >}}
+## Nutrition
+
+- Calories: 319
+- Carbohydrates: 19
+- Protein: 23
+- Fat: 17
+- Sodium: 429
+- Fiber: 1
+- Sugar: 3
+
 *Recipe Source*: "https://ohsnapmacros.com/big-mac-casserole/"

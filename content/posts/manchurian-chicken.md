@@ -7,8 +7,9 @@ image: "/posts/manchurian-chicken.webp"
 ---
 
 Enjoy this popular Hakka (Indo-Chinese) shallow-fried chicken dish with a little chilli heat and some sweetness
-
-{{< recipedetails PrepTime="10 minutes" TotalTime="40 minutes" Servings="4" >}}
+- **Prep Time**: 10 minutes
+- **Total Time**: 40 minutes
+- **Servings**: 4
 
 ## Ingredients
 
@@ -41,5 +42,14 @@ Enjoy this popular Hakka (Indo-Chinese) shallow-fried chicken dish with a little
 5. Meanwhile, reheat the sauce over a low heat. Add all the fried chicken to the sauce and toss it gently to coat. Sprinkle over the remaining spring onions to serve.
 
 
-{{< nutrition Calories="386" Carbohydrates="40" Protein="21" Fat="16" Sodium="1.98" Fiber="1" Sugar="4" >}}
+## Nutrition
+
+- Calories: 386
+- Carbohydrates: 40
+- Protein: 21
+- Fat: 16
+- Sodium: 1.98
+- Fiber: 1
+- Sugar: 4
+
 *Recipe Source*: "https://www.bbcgoodfood.com/recipes/manchurian-chicken"

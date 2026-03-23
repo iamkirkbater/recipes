@@ -6,8 +6,8 @@ categories:
   - "Mexican"
   - "Condiment"
 ---
-
-{{< recipedetails PrepTime="5m" TotalTime="10m" >}}
+- **Prep Time**: 5m
+- **Total Time**: 10m
 
 ## Ingredients
 

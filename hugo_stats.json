@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "b",
       "body",
       "button",
       "div",
@@ -145,7 +144,6 @@
       "my-4",
       "my-6",
       "no-underline",
-      "nutrition-info",
       "object-cover",
       "overflow-hidden",
       "p-0",
@@ -166,7 +164,6 @@
       "py-2",
       "py-3",
       "py-4",
-      "recipe-details",
       "relative",
       "right-0",
       "rounded-full",
@@ -204,7 +201,9 @@
       "widget-search__form"
     ],
     "ids": [
+      "chili-base",
       "content",
+      "finishing",
       "hamburgerbtn",
       "icon-moon",
       "icon-sun",
@@ -212,8 +211,12 @@
       "icon2-sun",
       "ingredients",
       "instructions",
+      "instructions-1",
+      "meat--beans",
       "mobileMenu",
       "notes",
+      "nutrition",
+      "pasta",
       "sauce",
       "seasonings",
       "thumb"

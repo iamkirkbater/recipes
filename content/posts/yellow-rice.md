@@ -7,8 +7,8 @@ image: "/posts/yellow-rice.webp"
 ---
 
 Yellow rice is a beloved dish among many cultural traditions. A staple side in Latin American kitchens, arroz amarillo appears in various iterations across the region. The appeal of yellow rice extends to Central and South Asia, and South Africa, and its brilliant hue achieved with saffron, turmeric or achiote. This version uses widely available and economical ground turmeric, and is a canvas upon which you can incorporate other ingredients and spices. Consider adding a bell pepper to the onion and garlic, or stir in a cup of frozen peas at the very end. The amount of cooking liquid you use depends on the type and quality of your rice, and be mindful to cut down on salt if you use a salted broth. Typically served as a side dish, the dish can also be served on its own.
-
-{{< recipedetails TotalTime="40 minutes" Servings="6" >}}
+- **Total Time**: 40 minutes
+- **Servings**: 6
 
 ## Ingredients
 
@@ -30,5 +30,13 @@ Yellow rice is a beloved dish among many cultural traditions. A staple side in L
 4. Gently fluff with a fork or a slotted spatula, taking care not to break too many grains. Garnish with the cilantro, if using, and serve.
 
 
-{{< nutrition Carbohydrates="52" Protein="5" Fat="9" Sodium="493" Fiber="1" Sugar="1" >}}
+## Nutrition
+
+- Carbohydrates: 52
+- Protein: 5
+- Fat: 9
+- Sodium: 493
+- Fiber: 1
+- Sugar: 1
+
 *Recipe Source*: "https://cooking.nytimes.com/recipes/1023172-yellow-rice"

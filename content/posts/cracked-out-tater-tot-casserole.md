@@ -7,8 +7,8 @@ image: "/posts/cracked-out-tater-tot-casserole.webp"
 ---
 
 This Cracked Out Tater Tot Casserole is a combination of \"crack chicken\" and \"tater tot hot dish.\" It's full of chicken, tater tots and creamy ranch flavors. Top it with some crispy salty bacon and you've got a flavor explosion.
-
-{{< recipedetails PrepTime="20 minutes" Servings="6" >}}
+- **Prep Time**: 20 minutes
+- **Servings**: 6
 
 ## Ingredients
 
@@ -38,5 +38,14 @@ This Cracked Out Tater Tot Casserole is a combination of \"crack chicken\" and \
 8. While the casserole bakes cook your bacon and crumble. Remove the casserole from the oven and top with crumbled bacon and chopped green onions. Serve and enjoy!
 
 
-{{< nutrition Calories="407" Carbohydrates="20" Protein="41" Fat="18" Sodium="1279" Fiber="1" Sugar="3" >}}
+## Nutrition
+
+- Calories: 407
+- Carbohydrates: 20
+- Protein: 41
+- Fat: 18
+- Sodium: 1279
+- Fiber: 1
+- Sugar: 3
+
 *Recipe Source*: "https://ohsnapmacros.com/cracked-out-tater-tot-casserole/"

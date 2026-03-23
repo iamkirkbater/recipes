@@ -7,8 +7,8 @@ image: "/posts/air-fryer-mini-tacos.webp"
 ---
 
 These Air Fryer Mini Tacos put those frozen mini tacos to shame. Filled with juicy, flavorful chicken, shredded cheese and a crunchy shell, this easy appetizer comes with homemade taco seasoning and ricotta cilantro crema. A great way to please the crowd, this easy appetizer is ready in less than 30 minutes.
-
-{{< recipedetails PrepTime="20 minutes" Servings="12" >}}
+- **Prep Time**: 20 minutes
+- **Servings**: 12
 
 ## Ingredients
 
@@ -43,5 +43,14 @@ These Air Fryer Mini Tacos put those frozen mini tacos to shame. Filled with jui
 8. Serving size per nutrition facts is 1 taco.
 
 
-{{< nutrition Calories="148" Carbohydrates="9" Protein="14" Fat="6" Sodium="454" Fiber="1" Sugar="1" >}}
+## Nutrition
+
+- Calories: 148
+- Carbohydrates: 9
+- Protein: 14
+- Fat: 6
+- Sodium: 454
+- Fiber: 1
+- Sugar: 1
+
 *Recipe Source*: "https://ohsnapmacros.com/air-fryer-mini-tacos/"

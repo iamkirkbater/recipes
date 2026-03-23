@@ -7,8 +7,8 @@ image: "/posts/mississippi-chicken-casserole-recipe.webp"
 ---
 
 This Mississippi Chicken Casserole recipe is comfort food at it's best! A flavorful chicken dinner so easy you won't believe it doesn't use canned soup. Tender, juicy chicken tossed in a creamy sauce with egg noodles, pepperoncini peppers, vegetables, and homemade ranch seasoning.
-
-{{< recipedetails PrepTime="25 minutes" Servings="8" >}}
+- **Prep Time**: 25 minutes
+- **Servings**: 8
 
 ## Ingredients
 
@@ -50,5 +50,14 @@ This Mississippi Chicken Casserole recipe is comfort food at it's best! A flavor
 9. Allow the casserole to rest for a few minutes before serving.
 
 
-{{< nutrition Calories="377" Carbohydrates="36" Protein="30" Fat="11" Sodium="669" Fiber="2" Sugar="11" >}}
+## Nutrition
+
+- Calories: 377
+- Carbohydrates: 36
+- Protein: 30
+- Fat: 11
+- Sodium: 669
+- Fiber: 2
+- Sugar: 11
+
 *Recipe Source*: "https://ohsnapmacros.com/mississippi-chicken-casserole-recipe/"

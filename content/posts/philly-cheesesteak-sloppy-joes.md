@@ -7,8 +7,8 @@ image: "/posts/philly-cheesesteak-sloppy-joes.webp"
 ---
 
 Don't be afraid to get messy with these Philly Cheesesteak Sloppy Joes. Meaty, melty and cheesy, this sandwich combines two comfort food classics to create an easy to make, can't resist dinner, everyone will devour.
-
-{{< recipedetails PrepTime="5 minutes" Servings="4" >}}
+- **Prep Time**: 5 minutes
+- **Servings**: 4
 
 ## Ingredients
 
@@ -41,5 +41,14 @@ Don't be afraid to get messy with these Philly Cheesesteak Sloppy Joes. Meaty, m
 10. Serve the Philly Cheesesteak Sloppy Joes hot!
 
 
-{{< nutrition Calories="385" Carbohydrates="38" Protein="34" Fat="11" Sodium="545" Fiber="4" Sugar="11" >}}
+## Nutrition
+
+- Calories: 385
+- Carbohydrates: 38
+- Protein: 34
+- Fat: 11
+- Sodium: 545
+- Fiber: 4
+- Sugar: 11
+
 *Recipe Source*: "https://ohsnapmacros.com/philly-cheesesteak-sloppy-joes/"

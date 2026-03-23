@@ -7,8 +7,8 @@ image: "/posts/egg-white-bites.webp"
 ---
 
 These homemade Egg White Bites are a meal prep must-have! Made with egg whites, cottage cheese, veggies and turkey sausage, these creamy bites are high protein, low-carb and totally delicious. This recipe makes 24 little egg bites to make breakfast a breeze all week.
-
-{{< recipedetails PrepTime="10 minutes" Servings="24" >}}
+- **Prep Time**: 10 minutes
+- **Servings**: 24
 
 ## Ingredients
 
@@ -31,5 +31,12 @@ These homemade Egg White Bites are a meal prep must-have! Made with egg whites, 
 7. If baking one tray at a time or halving the recipe bake for 15-20 minutes or until the eggs are fully cooked through and no longer runny.
 
 
-{{< nutrition Calories="44" Carbohydrates="1" Protein="6" Fat="2" Sodium="139" >}}
+## Nutrition
+
+- Calories: 44
+- Carbohydrates: 1
+- Protein: 6
+- Fat: 2
+- Sodium: 139
+
 *Recipe Source*: "https://ohsnapmacros.com/egg-white-bites/"

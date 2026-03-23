@@ -7,8 +7,9 @@ image: "/posts/loaded-chicken-and-potato-casserole.webp"
 ---
 
 Chicken potato casserole has clean and simple flavors, similar to those you get from a baked potato
-
-{{< recipedetails PrepTime="20 minutes" TotalTime="1 hour 15 minutes" Servings="8" >}}
+- **Prep Time**: 20 minutes
+- **Total Time**: 1 hour 15 minutes
+- **Servings**: 8
 
 ## Ingredients
 
@@ -34,5 +35,11 @@ Chicken potato casserole has clean and simple flavors, similar to those you get 
 3. Once the potatoes are cooked, remove them from the oven and top with bacon, cheese, and green onions. Return to the oven and cook for an additional 5- 10 mins or until the cheese is melted
 
 
-{{< nutrition Calories="332" Carbohydrates="21" Protein="22" Fat="19" >}}
+## Nutrition
+
+- Calories: 332
+- Carbohydrates: 21
+- Protein: 22
+- Fat: 19
+
 *Recipe Source*: "https://topteenrecipes.com/loaded-chicken-potato-casserole/"
