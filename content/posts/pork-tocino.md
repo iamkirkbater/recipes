@@ -8,8 +8,8 @@ categories:
 ---
 
 Thinly sliced sweet and sour pork 
-- **Prep Time**: 30m
-- **Total Time**: 2-3 days
+
+{{< recipedetails PrepTime="30m" TotalTime="2-3 days" >}}
 
 ## Ingredients
 

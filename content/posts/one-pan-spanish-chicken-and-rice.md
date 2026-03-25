@@ -11,9 +11,8 @@ image: "/posts/one-pan-spanish-chicken-and-rice.webp"
 Easy one pan Spanish chicken and rice is made with simple seasoning that come together with zesty, bold flavors in this one pot, 30 minute meal.
 
 Might want to make 2 portions at once.
-- **Prep Time**: 5 minutes
-- **Total Time**: 30 minutes
-- **Servings**: 4
+
+{{< recipedetails PrepTime="5 minutes" TotalTime="30 minutes" Servings="4" >}}
 
 ## Ingredients
 
@@ -42,13 +41,4 @@ Might want to make 2 portions at once.
 5. Garnish with lemon slices and freshly chopped cilantro or parsley and serve immediately.
 
 
-## Nutrition
-
-- Calories: 426
-- Carbohydrates: 43
-- Protein: 31
-- Fat: 15
-- Sodium: 765
-- Fiber: 2
-- Sugar: 1
-
+{{< nutrition Calories="426" Carbohydrates="43" Protein="31" Fat="15" Sodium="765" Fiber="2" Sugar="1" >}}

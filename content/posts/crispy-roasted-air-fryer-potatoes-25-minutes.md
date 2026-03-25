@@ -7,9 +7,8 @@ image: "/posts/crispy-roasted-air-fryer-potatoes-25-minutes.webp"
 ---
 
 Easy Air Fryer Potatoes are a side for all occasions! They come out golden, crispy, and perfectly seasoned every time. Use any spuds you have on hand in this versatile recipe, but if you opt for small potatoes in the air fryer, and you even only have to cut 'em once.
-- **Prep Time**: 5 minutes
-- **Total Time**: 25 minutes
-- **Servings**: 4
+
+{{< recipedetails PrepTime="5 minutes" TotalTime="25 minutes" Servings="4" >}}
 
 ## Ingredients
 
@@ -33,14 +32,5 @@ Easy Air Fryer Potatoes are a side for all occasions! They come out golden, cris
 5. Garnish with fresh herbs and parmesan cheese, if desired, and serve immediately.
 
 
-## Nutrition
-
-- Calories: 149
-- Carbohydrates: 28
-- Protein: 3
-- Fat: 2
-- Sodium: 509
-- Fiber: 5
-- Sugar: 2
-
+{{< nutrition Calories="149" Carbohydrates="28" Protein="3" Fat="2" Sodium="509" Fiber="5" Sugar="2" >}}
 *Recipe Source*: "https://oursaltykitchen.com/air-fryer-potatoes/"

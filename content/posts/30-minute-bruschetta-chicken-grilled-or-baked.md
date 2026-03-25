@@ -7,9 +7,8 @@ image: "/posts/30-minute-bruschetta-chicken-grilled-or-baked.webp"
 ---
 
 Bruschetta levels up from appetizer territory in this suppertime spin on a classic. Grilled or baked chicken breasts play host to diced tomatoes, fresh basil, and a tangy balsamic glaze to make a quick, easy, and healthy dinner recipe. Pay homage to summer and go as fresh as possible with your produce for the best flavor in Bruschetta Chicken!
-- **Prep Time**: 15 minutes
-- **Total Time**: 32 minutes
-- **Servings**: 4
+
+{{< recipedetails PrepTime="15 minutes" TotalTime="32 minutes" Servings="4" >}}
 
 ## Ingredients
 
@@ -42,14 +41,5 @@ Bruschetta levels up from appetizer territory in this suppertime spin on a class
 8. Top the grilled chicken with the bruschetta. Serve immediately.
 
 
-## Nutrition
-
-- Calories: 293
-- Carbohydrates: 8
-- Protein: 38
-- Fat: 12
-- Sodium: 762
-- Fiber: 3
-- Sugar: 3
-
+{{< nutrition Calories="293" Carbohydrates="8" Protein="38" Fat="12" Sodium="762" Fiber="3" Sugar="3" >}}
 *Recipe Source*: "https://oursaltykitchen.com/bruschetta-chicken/"

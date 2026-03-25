@@ -1,25 +1,26 @@
 <div class="nutrition-info">
 <ul>
-    {{- if .Get "Calories" }}<li>Calories: {{ .Get "Calories" }}</li>
+    {{- if .Get "Calories" }}<li class="calories">Calories: {{ .Get "Calories" }}</li>
 {{ end -}}
-{{- if .Get "Carbohydrates" }}<li>Carbohydrates: {{ .Get "Carbohydrates" }}</li>
+{{- if .Get "Carbohydrates" }}<li class="carbohydrates">Carbohydrates: {{ .Get "Carbohydrates" }}</li>
 {{ end -}}
-{{- if .Get "Protein" }}<li>Protein: {{ .Get "Protein" }}</li>
+{{- if .Get "Protein" }}<li class="protein">Protein: {{ .Get "Protein" }}</li>
 {{ end -}}
-{{- if .Get "Fat" }}<li>Fat: {{ .Get "Fat" }}</li>
+{{- if .Get "Fat" }}<li class="fat">Fat: {{ .Get "Fat" }}</li>
 {{ end -}}
-{{- if .Get "SaturatedFat" }}<li>Saturated Fat: {{ .Get "SaturatedFat" }}</li>
+{{- if .Get "SaturatedFat" }}<li class="saturated-fat">Saturated Fat: {{ .Get "SaturatedFat" }}</li>
 {{ end -}}
-{{- if .Get "UnsaturatedFat" }}<li>Unsaturated Fat: {{ .Get "UnsaturatedFat" }}</li>
+{{- if .Get "UnsaturatedFat" }}<li class="unsaturated-fat">Unsaturated Fat: {{ .Get "UnsaturatedFat" }}</li>
 {{ end -}}
-{{- if .Get "TransFat" }}<li>Trans Fat: {{ .Get "TransFat" }}</li>
+{{- if .Get "TransFat" }}<li class="trans-fat">Trans Fat: {{ .Get "TransFat" }}</li>
 {{ end -}}
-{{- if .Get "Cholesterol" }}<li>Cholesterol: {{ .Get "Cholesterol" }}</li>
+{{- if .Get "Cholesterol" }}<li class="cholesterol">Cholesterol: {{ .Get "Cholesterol" }}</li>
 {{ end -}}
-{{- if .Get "Sodium" }}<li>Sodium: {{ .Get "Sodium" }}</li>
+{{- if .Get "Sodium" }}<li class="sodium">Sodium: {{ .Get "Sodium" }}</li>
 {{ end -}}
-{{- if .Get "Fiber" }}<li>Fiber: {{ .Get "Fiber" }}</li>
+{{- if .Get "Fiber" }}<li class="fiber">Fiber: {{ .Get "Fiber" }}</li>
 {{ end -}}
-{{- if .Get "Sugar" }}<li>Sugar: {{ .Get "Sugar" }}</li>
+{{- if .Get "Sugar" }}<li class="sugar">Sugar: {{ .Get "Sugar" }}</li>
 {{ end -}}
+</ul>
 </div>

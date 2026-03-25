@@ -1,0 +1,132 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "hugo_stats.json";
+
+@theme {
+  --color-warmgray-600: #52585b;
+  --color-warmgray-700: #3f4446;
+  --color-warmgray-800: #27292a;
+  --color-warmgray-900: #181a1b;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.dark:root {
+  --pagefind-ui-primary: #ffffff;
+  --pagefind-ui-text: #ffffff;
+  --pagefind-ui-background: #181a1b;
+  --pagefind-ui-border: #181a1b;
+  --pagefind-ui-tag: #181a1b;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-image-border-radius: 4px;
+}
+
+.thumbnail {
+  flex-shrink: 0;
+  object-fit: cover;
+  overflow: hidden;
+  height: calc(var(--spacing) * 80);
+  place-items: center;
+  @media (width >= 64rem) {
+    width: 25%;
+    height: calc(var(--spacing) * 44);
+  }
+}
+
+.thumbnail img {
+    min-width: 100%;
+    height: auto;
+    max-height: 100%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    @media (width >= 64rem) {
+      width: 150%;
+      height: 150%;
+      max-height: auto;
+      min-width: auto;
+    }
+}
+
+.recipe-details ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.recipe-details li {
+    display: inline-block;
+    margin: 0 0.25em;
+    padding: 0em 0.75em;
+    border: 1px solid darkslategray;
+    background: #efefef;
+    border-radius: 5px;
+    font-size: 0.75em;
+}
+.recipe-details li:before {
+    font-family: 'Material Symbols Outlined';
+    font-size: 1.3em;
+    vertical-align: middle;
+    margin-right: 0.2em;
+}
+
+.recipe-details .prep-time:before {
+    content: "timer";
+}
+
+.recipe-details .cook-time:before {
+    content: "timer";
+}
+
+.recipe-details .total-time:before {
+    content: "timer";
+}
+
+.recipe-details .servings:before {
+  content: "fork_spoon";
+}
+
+.recipe-details .rating:before {
+  content: "Rating: ";
+  font-weight: bold;
+}
+
+.recipe h2 {
+    margin-top: 0.75em;
+}
+
+.recipe-single {
+  overflow-y: hidden;
+}
+
+.recipe-image {
+  flex-shrink: 0;
+  object-fit: cover;
+  overflow: hidden;
+  height: calc(var(--spacing) * 80);
+  place-items: center;
+  @media (width >= 64rem) {
+    height: calc(var(--spacing) * 100);
+  }
+}
+
+.recipe-image img {
+    min-width: 100%;
+    height: auto;
+    max-height: 100%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    @media (width >= 64rem) {
+      width: 150%;
+      height: 150%;
+      max-height: auto;
+      min-width: auto;
+    }
+}

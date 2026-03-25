@@ -24,13 +24,4 @@ Cook steaks on medium-high heat.
 
 
 
-## Nutrition
-
-- Calories: 1395
-- Carbohydrates: 5
-- Protein: 185
-- Fat: 64
-- Sodium: 734
-- Fiber: 1
-- Sugar: 2
-
+{{< nutrition Calories="1395" Carbohydrates="5" Protein="185" Fat="64" Sodium="734" Fiber="1" Sugar="2" >}}

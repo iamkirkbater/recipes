@@ -7,8 +7,8 @@ image: "/posts/turkey-tater-tot-casserole.webp"
 ---
 
 This Turkey Tater Tot Casserole is a lightened up version of the traditional Tater Tot Hotdish. Using deliciously seasoned ground turkey and Alexia Seasoned Taters Tots you’ll have the best weeknight dish the entire family will enjoy.
-- **Prep Time**: 10 minutes
-- **Servings**: 5
+
+{{< recipedetails PrepTime="10 minutes" Servings="5" >}}
 
 ## Ingredients
 
@@ -34,14 +34,5 @@ This Turkey Tater Tot Casserole is a lightened up version of the traditional Tat
 6. Place the pan in the oven uncovered and bake for 30-35 minutes until the cheese is bubbling and the tater tots are crispy. Remove from the oven and enjoy!
 
 
-## Nutrition
-
-- Calories: 378
-- Carbohydrates: 22.5
-- Protein: 27.3
-- Fat: 19.8
-- Sodium: 1003.6
-- Fiber: 1.7
-- Sugar: 1
-
+{{< nutrition Calories="378" Carbohydrates="22.5" Protein="27.3" Fat="19.8" Sodium="1003.6" Fiber="1.7" Sugar="1" >}}
 *Recipe Source*: "https://ohsnapmacros.com/turkey-tater-tot-casserole/"

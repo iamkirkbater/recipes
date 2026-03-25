@@ -7,8 +7,8 @@ categories:
   - "High-Protein"
 image: "/posts/creamy-garlic-butter-steak-bites.webp"
 ---
-- **Servings**: 4
-- **Rating**: 4
+
+{{< recipedetails Servings="4" Rating="4" >}}
 
 ## Ingredients
 

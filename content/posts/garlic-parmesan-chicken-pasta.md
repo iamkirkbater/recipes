@@ -7,8 +7,8 @@ image: "/posts/garlic-parmesan-chicken-pasta.webp"
 ---
 
 This Garlic Parmesan Chicken Pasta is a simple weeknight comfort food your entire family will love. Using roasted garlic gives this dish a gourmet feel while still being quick and easy for busy nights.
-- **Prep Time**: 20 minutes
-- **Servings**: 6
+
+{{< recipedetails PrepTime="20 minutes" Servings="6" >}}
 
 ## Ingredients
 
@@ -43,12 +43,5 @@ This Garlic Parmesan Chicken Pasta is a simple weeknight comfort food your entir
 13. Add the cooked pasta noodles to the sauce and mix well to combine.Slice the cooked chicken into strips and add to the dish or serve on top. Top with fresh parsley for garnish. Enjoy your delicious and easy garlic parmesan chicken pasta.
 
 
-## Nutrition
-
-- Calories: 400
-- Carbohydrates: 43
-- Protein: 35
-- Fat: 10
-- Sodium: 177
-
+{{< nutrition Calories="400" Carbohydrates="43" Protein="35" Fat="10" Sodium="177" >}}
 *Recipe Source*: "https://ohsnapmacros.com/garlic-parmesan-chicken-pasta/"

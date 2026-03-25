@@ -7,8 +7,8 @@ image: "/posts/buffalo-ranch-chicken-salad.webp"
 ---
 
 This Buffalo Ranch Chicken Salad brings a balance of heat, crunch and flavor. High in protein and easy to make, this chicken salad has the best flavor from the homemade buffalo ranch dressing. Make a sandwich, add it to a wrap or place over a bed of greens for a delicious lunch, dinner or mid-day snack.
-- **Prep Time**: 5 minutes
-- **Servings**: 4
+
+{{< recipedetails PrepTime="5 minutes" Servings="4" >}}
 
 ## Ingredients
 
@@ -40,13 +40,5 @@ This Buffalo Ranch Chicken Salad brings a balance of heat, crunch and flavor. Hi
 5. In a medium bowl, combine the shredded chicken, buffalo ranch dressing, celery, red onion, parsley, chives, salt and pepper. Mix everything well to combine.
 
 
-## Nutrition
-
-- Calories: 237
-- Carbohydrates: 5
-- Protein: 42
-- Fat: 5
-- Sodium: 813
-- Sugar: 1
-
+{{< nutrition Calories="237" Carbohydrates="5" Protein="42" Fat="5" Sodium="813" Sugar="1" >}}
 *Recipe Source*: "https://ohsnapmacros.com/buffalo-ranch-chicken-salad/"

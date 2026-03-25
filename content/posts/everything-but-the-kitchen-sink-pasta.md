@@ -7,9 +7,8 @@ image: "/posts/everything-but-the-kitchen-sink-pasta.webp"
 ---
 
 An irresistible and super simple one-pot pasta dish filled with spicy sausage and a silky tomato cream sauce. It's a perfect family-friendly meal for busy weeknights!
-- **Prep Time**: 10 minutes
-- **Total Time**: 25 minutes
-- **Servings**: 6
+
+{{< recipedetails PrepTime="10 minutes" TotalTime="25 minutes" Servings="6" >}}
 
 ## Ingredients
 
@@ -42,7 +41,4 @@ An irresistible and super simple one-pot pasta dish filled with spicy sausage an
 5. When the pasta is cooked through, stir in the cream, Parmesan cheese, and most of the basil (reserving a little for garnish). Add the cooked sausage, reserved sausage drippings, shrimp, and shredded chicken and mix through. Allow the cream to heat through for 2 minutes. Season with salt and pepper to taste. Allow the dish to cool for 5 minutes, sprinkle the remaining basil over the top, and serve.
 
 
-## Nutrition
-
-- Calories: 472
-
+{{< nutrition Calories="472" >}}

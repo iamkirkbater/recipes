@@ -1,0 +1,31 @@
+{{ define "header_css" }}{{ end }}
+
+{{ define "main" }}
+<div class="grid grid-cols-3 gap-4">
+  {{ if .Site.Params.widgets.display }}
+  <main class="col-span-3 lg:col-span-2">
+  {{ else }}
+  < class="col-span-3">
+  {{ end }}
+    <div class="bg-white dark:bg-warmgray-900 dark:text-white rounded-xl shadow-sm lg:my-4 recipe-single">
+    {{ if .Params.image }}
+    <div class="recipe-image">
+        <img
+        alt="image"
+        id="image"
+        class="object-cover"
+        src="{{ .Params.image | relURL }}"
+        /></div>
+    {{ end }}
+
+        <article class="recipe p-6">
+        <h1 class="title text-4xl font-bold mb-2">{{.Title}}</h1>
+        <div class="content prose md:prose-base lg:prose-lg max-w-none dark:prose-invert py-1">{{.Content}}</div>
+        </article>
+    </div>
+  </main>
+  {{ if .Site.Params.widgets.display }}
+    {{ partial "widgets.html" . }}
+  {{ end }}
+</div>
+{{ end }}

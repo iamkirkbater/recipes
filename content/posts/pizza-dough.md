@@ -9,8 +9,8 @@ categories:
 ---
 
 Cold-Fermented Pizza Classica Dough. Yield's 8 fermented 9.5oz Dough Balls
-- **Prep Time**: 40m
-- **Total Time**: 72+ hours
+
+{{< recipedetails PrepTime="40m" TotalTime="72+ hours" >}}
 
 ## Ingredients
 

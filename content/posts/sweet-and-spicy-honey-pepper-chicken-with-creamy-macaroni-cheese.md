@@ -3,8 +3,8 @@ title: "Sweet and Spicy Honey Pepper Chicken with Creamy Macaroni Cheese"
 date: 2024-06-13
 lastmod: 2024-06-13T16:02:22.736711Z
 ---
-- **Prep Time**: 15m
-- **Total Time**: 40m
+
+{{< recipedetails PrepTime="15m" TotalTime="40m" >}}
 
 ## Ingredients
 

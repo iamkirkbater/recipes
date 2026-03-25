@@ -9,9 +9,8 @@ tags:
 ---
 
 Learn the secrets to making Chipotle Cilantro Lime Rice in the comfort of your own kitchen. This copycat recipe starts with getting the right type of rice and cooking it in a non-traditional way. This rice is soft and fluffy with just the right amount of chew and no stickiness.
-- **Prep Time**: 5 minutes
-- **Total Time**: 25 minutes
-- **Servings**: 12
+
+{{< recipedetails PrepTime="5 minutes" TotalTime="25 minutes" Servings="12" >}}
 
 ## Ingredients
 
@@ -49,14 +48,5 @@ When using a rice cooker, it is important to follow the manufacturer’s instruc
 
 
 
-## Nutrition
-
-- Calories: 114
-- Carbohydrates: 25
-- Protein: 2
-- Fat: 1
-- Sodium: 2
-- Fiber: 1
-- Sugar: 1
-
+{{< nutrition Calories="114" Carbohydrates="25" Protein="2" Fat="1" Sodium="2" Fiber="1" Sugar="1" >}}
 *Recipe Source*: "https://www.culinaryhill.com/chipotle-cilantro-lime-rice/"

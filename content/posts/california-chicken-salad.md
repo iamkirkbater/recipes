@@ -7,8 +7,8 @@ image: "/posts/california-chicken-salad.webp"
 ---
 
 This creamy, crunchy and sweet California Chicken Salad is the perfect on the go lunch. Serve it with bread, buns, in a salad or even as a dip with your favorite chips or crackers.
-- **Prep Time**: 10 minutes
-- **Servings**: 8
+
+{{< recipedetails PrepTime="10 minutes" Servings="8" >}}
 
 ## Ingredients
 
@@ -36,13 +36,5 @@ This creamy, crunchy and sweet California Chicken Salad is the perfect on the go
 7. Serve on bread, buns, lettuce cups, in a salad or wrap, or simply eat it by itself. Nutrition facts are for chicken salad only.
 
 
-## Nutrition
-
-- Calories: 218
-- Carbohydrates: 9
-- Protein: 16
-- Fat: 11
-- Sodium: 984
-- Fiber: 0.7
-
+{{< nutrition Calories="218" Carbohydrates="9" Protein="16" Fat="11" Sodium="984" Fiber="0.7" >}}
 *Recipe Source*: "https://ohsnapmacros.com/california-chicken-salad/"
