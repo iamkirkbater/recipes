@@ -1,11 +1,17 @@
 ---
 title: "Peanut Butter Protein Cheesecake"
+summary: "If you love cheesecake, then you’re going to love this high-protein no bake cheesecake that takes about 5 minutes to make. This tastes exactly like a normal cheesecake, but it’s lower in calories and higher in protein "
 date: 2025-08-10
-lastmod: 2025-08-10T12:26:42.944580Z
+lastmod: 2026-03-25T17:19:15.299545Z
 categories:
   - "High-Protein"
   - "Dessert"
+image: "/posts/peanut-butter-protein-cheesecake.webp"
 ---
+
+If you love cheesecake, then you’re going to love this high-protein no bake cheesecake that takes about 5 minutes to make. This tastes exactly like a normal cheesecake, but it’s lower in calories and higher in protein 
+
+{{< recipedetails PrepTime="5m" TotalTime="15m" Servings="2" >}}
 
 ## Ingredients
 
@@ -29,3 +35,6 @@ categories:
 2. Freeze for 10-15m.
 3. Add crumbled graham crackers, whipped cream and melted peanut butter to top and enjoy.
 
+
+{{< nutrition Calories="310" Carbohydrates="21" Protein="36" Fat="11" >}}
+*Recipe Source*: "https://www.instagram.com/reel/DMx7-cWpSJs"
