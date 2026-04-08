@@ -20,8 +20,44 @@
 
         <article class="recipe p-6">
         <h1 class="title text-4xl font-bold mb-2">{{.Title}}</h1>
+        <button id="cook-mode-toggle" class="cook-mode-btn bg-slate-300 dark:bg-slate-700" onclick="toggleCookMode()">
+          <span class="material-symbols-outlined">skillet</span> Cook Mode
+        </button>
         <div class="content prose md:prose-base lg:prose-lg max-w-none dark:prose-invert py-1">{{.Content}}</div>
         </article>
+        <script>
+          let wakeLock = null;
+          const btn = document.getElementById('cook-mode-toggle');
+
+          async function toggleCookMode() {
+            if (wakeLock) {
+              await wakeLock.release();
+              wakeLock = null;
+              btn.classList.remove('active');
+            } else {
+              try {
+                wakeLock = await navigator.wakeLock.request('screen');
+                btn.classList.add('cook-mode-active');
+                wakeLock.addEventListener('release', () => {
+                  wakeLock = null;
+                  btn.classList.remove('cook-mode-active');
+                });
+              } catch (err) {
+                console.error('Wake Lock failed:', err);
+              }
+            }
+          }
+
+          document.addEventListener('visibilitychange', async () => {
+            if (document.visibilityState === 'visible' && btn.classList.contains('cook-mode-active')) {
+              try {
+                wakeLock = await navigator.wakeLock.request('screen');
+              } catch (err) {
+                console.error('Wake Lock reacquire failed:', err);
+              }
+            }
+          });
+        </script>
     </div>
   </main>
   {{ if .Site.Params.widgets.display }}
